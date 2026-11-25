@@ -1,4 +1,4 @@
-# Dashboard: Animated Gapminder Visualizations
+# Gapminder Interactive Dashboard
 
 An interactive report built with **Quarto** and **R** that uses two animated charts to show how life expectancy and wealth changed around the world between 1952 and 2007. It was created as a Data Visualization course project.
 
@@ -29,7 +29,7 @@ Each animation comes with the question it answers, a plain-language explanation 
 
 ## View the report
 
-**Open it online:** [Animated Data with Gapminder](https://muhammad-huzaifa-shafique.github.io/Dashboard/Animation_data.html). No download needed.
+**Open it online:** [Animated Data with Gapminder](https://muhammad-huzaifa-shafique.github.io/Gapminder-Interactive-Dashboard/Animation_data.html). No download needed.
 
 To view it offline instead, download or clone the repository and open **`Animation_data.html`** in your browser. Keep the `Animation_data_files/` folder next to it, because the page needs it to display the charts.
 
